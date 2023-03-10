@@ -1,0 +1,20 @@
+File format: pcap
+
+Traffic type: snowflake
+Link: https://pan.baidu.com/s/1u9qdvgdwPC53h7tSR3-oHw
+Extraction Code: izkn
+
+Traffic type: normal
+Link: https://pan.baidu.com/s/1BEoI7ywyAKoOR9JEjBi8Aw
+Extraction Code: yguh
+
+Traffic type: multi-version
+Link: https://pan.baidu.com/s/1bMASYIRWMoj0FOucBijYYA
+Extraction Code: 6hez
+
+Traffic type: Stratosphere
+Link: https://pan.baidu.com/s/1h7qoqn1tjdVIdOjy9LtCNA
+Extraction Code: ok6r
+
+
+Note: Some normal traffic have been removed in order to protect our privacy. We have verified that the removed data influence the results slightly in the paper. 
